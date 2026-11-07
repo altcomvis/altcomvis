@@ -1,6 +1,6 @@
 # Allan Teixeira
 
-**Design Lead · Produto digital e sistemas de design com IA**
+**Design Lead · Produto digital e sistemas de design com IA**  
 Porto, Portugal · Fundador da Berall Creative Solutions
 
 Mais de 20 anos em comunicação visual, com formação em Engenharia de Software. Trabalho na ponte entre criação, produto e tecnologia: desenho o produto, defino a arquitetura e uso IA onde ela poupa trabalho de verdade.
